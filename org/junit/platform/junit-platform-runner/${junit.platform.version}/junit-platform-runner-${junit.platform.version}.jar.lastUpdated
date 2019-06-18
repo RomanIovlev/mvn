@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Apr 06 00:02:29 MSK 2019
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1554498149688
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.junit.platform\:junit-platform-runner\:jar\:${junit.platform.version} from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.84.215] failed\: Connection timed out\: connect
