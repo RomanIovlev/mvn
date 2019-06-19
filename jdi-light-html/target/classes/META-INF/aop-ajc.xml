@@ -1,0 +1,6 @@
+<aspectj>
+<aspects>
+<aspect name="com.epam.jdi.light.ui.html.actions.HtmlActions"/>
+</aspects>
+</aspectj>
+

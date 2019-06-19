@@ -1,0 +1,6 @@
+<aspectj>
+<aspects>
+<aspect name="com.epam.jdi.light.actions.ActionProcessor"/>
+</aspects>
+</aspectj>
+
